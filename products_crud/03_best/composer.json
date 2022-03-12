@@ -1,0 +1,20 @@
+{
+    "name": "moham/03_best",
+    "autoload": {
+        "psr-4": {
+            "Moham\\03Best\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohmedebrahim",
+            "email": "mohamedebrahim4221@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "app\\":"./"
+        }
+    }
+}
